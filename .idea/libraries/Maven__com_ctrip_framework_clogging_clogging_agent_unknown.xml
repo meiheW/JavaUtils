@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ctrip.framework.clogging:clogging-agent:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/framework/clogging/clogging-agent/unknown/clogging-agent-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/framework/clogging/clogging-agent/unknown/clogging-agent-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/framework/clogging/clogging-agent/unknown/clogging-agent-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

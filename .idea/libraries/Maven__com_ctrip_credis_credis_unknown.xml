@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ctrip.credis:credis:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/credis/credis/unknown/credis-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/credis/credis/unknown/credis-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/credis/credis/unknown/credis-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

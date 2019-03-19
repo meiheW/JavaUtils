@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: qunar.tc:qmq-client:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/qunar/tc/qmq-client/unknown/qmq-client-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/qunar/tc/qmq-client/unknown/qmq-client-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/qunar/tc/qmq-client/unknown/qmq-client-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

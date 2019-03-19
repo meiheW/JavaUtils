@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ctrip.soa.artemis:artemis-client:1.5.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/soa/artemis/artemis-client/1.5.5/artemis-client-1.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/soa/artemis/artemis-client/1.5.5/artemis-client-1.5.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/soa/artemis/artemis-client/1.5.5/artemis-client-1.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ctrip.platform:ctrip-dal-client:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/platform/ctrip-dal-client/unknown/ctrip-dal-client-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/platform/ctrip-dal-client/unknown/ctrip-dal-client-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ctrip/platform/ctrip-dal-client/unknown/ctrip-dal-client-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

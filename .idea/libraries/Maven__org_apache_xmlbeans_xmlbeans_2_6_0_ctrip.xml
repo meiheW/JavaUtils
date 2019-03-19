@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.xmlbeans:xmlbeans:2.6.0.ctrip">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/2.6.0.ctrip/xmlbeans-2.6.0.ctrip.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/2.6.0.ctrip/xmlbeans-2.6.0.ctrip-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/2.6.0.ctrip/xmlbeans-2.6.0.ctrip-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
